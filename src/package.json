@@ -1,0 +1,11 @@
+{
+  "name": "alexa-bus-time",
+  "version": "1.0.0",
+  "description": "An Amazon Echo Skill that gets the distance away from a given stop for a New York City bus.",
+  "main": "index.js",
+  "author": "Dustin Coates",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^1.2.0"
+  }
+}

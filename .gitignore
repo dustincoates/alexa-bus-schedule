@@ -1,0 +1,2 @@
+*.env
+src/node_modules/*
